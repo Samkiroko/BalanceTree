@@ -1,0 +1,15 @@
+/Users/sam/Developer/C_sharp_Revision/bin/Debug/net7.0/C_sharp_Revision
+/Users/sam/Developer/C_sharp_Revision/bin/Debug/net7.0/C_sharp_Revision.deps.json
+/Users/sam/Developer/C_sharp_Revision/bin/Debug/net7.0/C_sharp_Revision.runtimeconfig.json
+/Users/sam/Developer/C_sharp_Revision/bin/Debug/net7.0/C_sharp_Revision.dll
+/Users/sam/Developer/C_sharp_Revision/bin/Debug/net7.0/C_sharp_Revision.pdb
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.csproj.AssemblyReference.cache
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.AssemblyInfoInputs.cache
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.AssemblyInfo.cs
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.csproj.CoreCompileInputs.cache
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.dll
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/refint/C_sharp_Revision.dll
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.pdb
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/C_sharp_Revision.genruntimeconfig.cache
+/Users/sam/Developer/C_sharp_Revision/obj/Debug/net7.0/ref/C_sharp_Revision.dll
